@@ -1,2 +1,0 @@
-# VenkatDevops
-For testing purpose
